@@ -3,9 +3,9 @@ package com.study.advanced.trace.logtrace;
 import com.study.advanced.trace.TraceStatus;
 import org.junit.jupiter.api.Test;
 
-class FiledLogTraceTest {
+class FieldLogTraceTest {
 
-    FiledLogTrace trace = new FiledLogTrace();
+    FieldLogTrace trace = new FieldLogTrace();
 
     @Test
     void begin_end_level2() {
