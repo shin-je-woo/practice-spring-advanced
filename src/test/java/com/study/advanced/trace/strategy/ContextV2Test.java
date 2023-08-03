@@ -1,5 +1,9 @@
-package com.study.advanced.trace.strategy.code;
+package com.study.advanced.trace.strategy;
 
+import com.study.advanced.trace.strategy.code.ContextV2;
+import com.study.advanced.trace.strategy.code.Strategy;
+import com.study.advanced.trace.strategy.code.StrategyLogic1;
+import com.study.advanced.trace.strategy.code.StrategyLogic2;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
