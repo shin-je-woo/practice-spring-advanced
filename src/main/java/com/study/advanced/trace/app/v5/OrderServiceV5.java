@@ -1,4 +1,4 @@
-package com.study.advanced.app.v5;
+package com.study.advanced.trace.app.v5;
 
 import com.study.advanced.trace.callback.TraceTemplate;
 import lombok.RequiredArgsConstructor;

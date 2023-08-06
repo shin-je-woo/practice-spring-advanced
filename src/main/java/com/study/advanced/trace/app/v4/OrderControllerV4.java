@@ -1,4 +1,4 @@
-package com.study.advanced.app.v4;
+package com.study.advanced.trace.app.v4;
 
 import com.study.advanced.trace.logtrace.LogTrace;
 import com.study.advanced.trace.template.AbstractTemplate;

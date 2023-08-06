@@ -1,4 +1,4 @@
-package com.study.advanced.app.v3;
+package com.study.advanced.trace.app.v3;
 
 import com.study.advanced.trace.TraceStatus;
 import com.study.advanced.trace.logtrace.LogTrace;
