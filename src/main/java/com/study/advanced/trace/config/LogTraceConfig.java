@@ -1,4 +1,4 @@
-package com.study.advanced.config;
+package com.study.advanced.trace.config;
 
 import com.study.advanced.trace.logtrace.LogTrace;
 import com.study.advanced.trace.logtrace.ThreadLocalLogTrace;
