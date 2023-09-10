@@ -18,8 +18,10 @@ import org.springframework.context.annotation.Import;
 //@Import(ProxyFactoryConfigV2.class)
 //@Import(BeanPostProcessorConfig.class)
 //@Import(AutoProxyConfig.class)
-@Import(AopConfig.class)
-@SpringBootApplication(scanBasePackages = "com.study.advanced.proxy.app")
+//@Import(AopConfig.class)
+//@SpringBootApplication(scanBasePackages = "com.study.advanced.proxy.app")
+// --- 여기까지 동적 프록시와 직접 구현하는 AOP, 이후부터 스프링이 제공하는 AOP
+@SpringBootApplication(scanBasePackages = "com.study.advanced.aop")
 public class AdvancedApplication {
 
 	public static void main(String[] args) {
